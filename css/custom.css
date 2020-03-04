@@ -10,17 +10,27 @@
     font-size: 1.5em;;
 }
 
-.rotate-resto:hover{
-    transform : translatex(-80px) rotatez(25deg);
-    transition: 0.7s;
+.rotate-resto{
+   transition: transform .6s;
 }
 
+.rotate-resto:hover{
+    transform: scale(1.2);
+}
+
+.rotate-blue{
+  transition: transform .6s;
+}
+
+
 .rotate-blue:hover{
-    transform : translatex(80px) rotatez(20deg);
-    transition: 0.7s;
+    transform: scale(1.2);
+}
+
+.rotate-love{
+    transition: transform .6s;
 }
 
 .rotate-love:hover{
-    transform : translatex(-80px) rotatez(20deg);
-    transition: 0.7s;
+    transform: scale(1.2);
 }
