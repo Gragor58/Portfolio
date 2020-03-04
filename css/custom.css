@@ -1,0 +1,26 @@
+/* your styles go here */
+
+/*PORTFOLIO*/
+
+.font-size-text-portfolio{
+    font-size: 2em;
+}
+
+.font-size-link{
+    font-size: 1.5em;;
+}
+
+.rotate-resto:hover{
+    transform : translatex(-80px) rotatez(25deg);
+    transition: 0.7s;
+}
+
+.rotate-blue:hover{
+    transform : translatex(80px) rotatez(20deg);
+    transition: 0.7s;
+}
+
+.rotate-love:hover{
+    transform : translatex(-80px) rotatez(20deg);
+    transition: 0.7s;
+}
