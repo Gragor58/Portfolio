@@ -1,5 +1,11 @@
 /* your styles go here */
 
+/*A PROPOS*/
+
+.font-size-present{
+    font-size: 1.5rem;
+}
+
 /*PORTFOLIO*/
 
 .font-size-text-portfolio{
@@ -33,4 +39,8 @@
 
 .rotate-love:hover{
     transform: scale(1.2);
+}
+
+.white-link:hover{
+    background-color: white;
 }
