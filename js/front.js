@@ -128,7 +128,7 @@ function map() {
                 icon: icon
             }).addTo(map);
 
-            marker.bindPopup("<div class='p-4'><h5>Info Window Content</h5><p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p></div>", {
+            marker.bindPopup("<div class='p-4'><h5>Vesoul</h5><p>Voici l'endroit où je me trouve actuellement mais je bouge relativement souvent.</p></div>", {
                 minwidth: 200,
                 maxWidth: 600,
                 className: 'map-custom-popup'

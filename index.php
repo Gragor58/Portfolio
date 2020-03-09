@@ -67,7 +67,7 @@
         <div class="container clearfix">
           <div class="row">
             <div class="col-lg-8 col-md-12 mx-auto">
-              <p class="italic">Salut a toi, Ô intrépide internaute !</p>
+              <p class="italic">Salut à toi, Ô intrépide internaute !</p>
               <h1>Bienvenue sur mon portfolio.</h1>
               <p class="italic">Profite bien du voyage !</p>
             </div>
@@ -83,7 +83,7 @@
           <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right"><i class="fa fa-bars"></i></button>
           <div id="navbarSupportedContent" class="collapse navbar-collapse">
             <ul class="navbar-nav ml-auto">
-              <li class="nav-item"><a href="#intro" class="nav-link link-scroll">Home</a></li>
+              <li class="nav-item"><a href="#intro" class="nav-link link-scroll">Accueil</a></li>
               <li class="nav-item"><a href="#about" class="nav-link link-scroll">A propos  </a></li>
               <li class="nav-item"><a href="#services" class="nav-link link-scroll">Compétences</a></li>
               <li class="nav-item"><a href="#portfolio" class="nav-link link-scroll">Portfolio</a></li>
@@ -118,7 +118,7 @@
       <div class="container">
         <div class="row services">
           <div class="col-lg-12">
-            <h2 class="heading">compétances</h2>
+            <h2 class="heading">compétences</h2>
 
             <div class="row">
               <div class="col-md-4">
@@ -130,14 +130,14 @@
               </div>
               <div class="col-md-4">
                 <div class="box">
-                  <div class="icon"><img src="img/css.png" alt="logo-html"></div>
+                  <div class="icon"><img src="img/css.png" alt="logo-css"></div>
                   <h5>CSS 3</h5>
                   <p>Les feuilles de style en cascade, généralement appelées CSS de l'anglais Cascading Style Sheets, forment un langage informatique qui décrit la présentation des documents HTML et XML.</p>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="box">
-                  <div class="icon"><img src="img/javascript.png"  alt="logo-html"></div>
+                  <div class="icon"><img src="img/javascript.png"  alt="logo-js"></div>
                   <h5>JAVASCRIPT</h5>
                   <p>JavaScript est un langage de programmation de scripts principalement employé dans les pages web interactives mais aussi pour les serveurs avec l'utilisation (par exemple) de Node.js.</p>
                 </div>
@@ -148,21 +148,21 @@
             <div class="row">
               <div class="col-md-4">
                 <div class="box">
-                  <div class="icon"><img src="img/php.png" alt="logo-html"></div>
+                  <div class="icon"><img src="img/php.png" alt="logo-php"></div>
                   <h5>PHP</h5>
                   <p>PHP: Hypertext Preprocessor, plus connu sous son sigle PHP, est un langage de programmation libre, principalement utilisé pour produire des pages Web dynamiques via un serveur HTTP, mais pouvant également fonctionner comme n'importe quel langage interprété de façon locale. PHP est un langage impératif orienté objet.</p>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="box">
-                  <div class="icon"><img src="img/sql.png" alt="logo-html"></div>
+                  <div class="icon"><img src="img/sql.png" alt="logo-sql"></div>
                   <h5>MY SQL</h5>
                   <p>MySQL est un système de gestion de bases de données relationnelles (SGBDR). Il est distribué sous une double licence GPL et propriétaire.</p>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="box">
-                  <div class="icon"><img src="img/symfony.png" alt="logo-html"></div>
+                  <div class="icon"><img src="img/symfony.png" alt="logo-symfony"></div>
                   <h5>SYMFONY</h5>
                   <p>Symfony est un ensemble de composants PHP ainsi qu'un framework MVC libre écrit en PHP. Il fournit des fonctionnalités modulables et adaptables qui permettent de faciliter et d’accélérer le développement d'un site web.</p>
                 </div>
@@ -173,21 +173,21 @@
             <div class="row">
               <div class="col-md-4">
                 <div class="box">
-                  <div class="icon"><img src="img/bootstrap.png" alt="logo-html"></div>
+                  <div class="icon"><img src="img/bootstrap.png" alt="logo-bootstrap"></div>
                   <h5>BOOTSTRAP</h5>
                   <p>Bootstrap est une collection d'outils utiles à la création du design (graphisme, animation et interactions avec la page dans le navigateur, etc.) de sites et d'applications web. C'est un ensemble qui contient des codes HTML et CSS, des formulaires, boutons, outils de navigation et autres éléments interactifs, ainsi que des extensions JavaScript en option.</p>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="box">
-                  <div class="icon"><img src="img/github.png" alt="logo-html"></div>
+                  <div class="icon"><img src="img/github.png" alt="logo-github"></div>
                   <h5>GITHUB</h5>
                   <p>GitHub (exploité sous le nom de GitHub, Inc.) est un service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions Git.</p>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="box">
-                  <div class="icon"><img src="img/photoshop.png" alt="logo-html"></div>
+                  <div class="icon"><img src="img/photoshop.png" alt="logo-photoshop"></div>
                   <h5>PHOTOSHOP</h5>
                   <p>Photoshop est un logiciel de retouche, de traitement et de dessin assisté par ordinateur, lancé en 1990 sur MacOS puis en 1992 sur Windows. </p>
                 </div>
@@ -207,7 +207,7 @@
             <div class="row pb-5">
               <div class="col-md-12 col-lg-8">
                 <h2 class="heading">Portfolio</h2>
-                <p class="text-center mb-5 font-size-text-portfolio">Vous pourrez retrouvez ici les différents travaux que j'ai effectué durant ma formation et bien plus encore. </p>
+                <p class="text-center mb-5 font-size-text-portfolio">Vous pourrez retrouver ici les différents travaux que j'ai effectués durant ma formation et bien plus encore. </p>
               </div>
             </div>
             
@@ -216,7 +216,7 @@
                 <a href="https://hugob.promo-vesoul33.codeur.online/restaurant" class="readmore"><img src="img/Projet-Restaurant.jpg" alt="Image" class="img-fluid rotate-resto"></a>
               </div>
               <div class="col-lg-5 h-100 jm-sticky-top ml-auto">
-                <h3>Project Restaurant</h3>
+                <h3>Projet Restaurant</h3>
                 <p class="mb-4">Voici le projet d'un site vitrine pour le compte du restaurant la gondola.<br>
                   Projet réaliser en collaboration avec : Désirée BESNARD, Sylvain SANTOS, Glenn PEREIRA GOMES, Hugo BACQUET.</p>
                 <p class="mb-5"><strong class="text-black"> Technologies utilisées :</strong> HTML, CSS, JS, GITHUB.</p>
@@ -235,8 +235,8 @@
                 <a href="https://hugob.promo-vesoul33.codeur.online/Blueasy" class="readmore"><img src="img/Projet-Blueasy.jpg" alt="Image" class="img-fluid rotate-blue"></a>
               </div>
               <div class="col-lg-5 h-100 jm-sticky-top mr-auto order-2 order-lg-1">
-                <h3>Project Blueasy</h3>
-                <p class="mb-4">Voici le projet d'un site vitrine pour exemple de protfolio.<br>
+                <h3>Projet Blueasy</h3>
+                <p class="mb-4">Voici le projet d'un site vitrine pour exemple d'un portfolio fictif.<br>
                   Projet réaliser par: Hugo BACQUET.
                 </p>
                 <p class="mb-5"><strong class="text-black"> Technologies utilisées :</strong> HTML, CSS, BOOTSTRAP</p>
@@ -259,8 +259,8 @@
                 <a href="https://hugob.promo-vesoul33.codeur.online/lovehouse" class="readmore"><img src="img/Projet-Lovehouse.jpg" alt="Image" class="img-fluid rotate-love"></a>
               </div>
               <div class="col-lg-5 h-100 jm-sticky-top ml-auto">
-                <h3>Project Lovehouse</h3>
-                <p class="mb-4">  Voici le projet d'un site vitrine pour le compte de la boutique LoveHouse.<br>
+                <h3>Projet Lovehouse</h3>
+                <p class="mb-4">  Voici le projet d'un site vitrine pour le compte de la boutique fictive LoveHouse.<br>
                   Projet réaliser en collaboration avec : Fiona PEREIRA GOMES, Eric CHAON, Florent BONNEAU, Hugo BACQUET.</p>
                 <p class="mb-5"><strong class="text-black"> Technologies utilisées :</strong> HTML, CSS, SASS, JS, GITHUB.</p>
             </div>
