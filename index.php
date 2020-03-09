@@ -7,6 +7,39 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
+
+    <!-- Meta Données -->
+
+    <meta name="description"
+        content="Bienvenue sur mon Portfolio, ou vous pourrez retrouver tous mes projets fini ou en cours de developpement.">
+    <meta name="author" content="Hugo BACQUET, Fiona PEREIRA GOMES">
+    <meta name="category" content="Portfolio">
+    <meta name="Keywords"
+        content="Portfolio, Developpement web, Designer Web, Web, HTML, CSS, JS, PHP">
+    <!-- Facebook -->
+    <meta property="og:locale" content="fr_FR">
+    <meta property="og:title" content="Portfolio de Hugo Bacquet">
+    <meta property="og:description" content="Bienvenue sur mon Portfolio, ou vous pourrez retrouver tous mes projets fini ou en cours de developpement.">
+    <meta property="og:image" content="http://hugob.promo-vesoul33.codeur.online/Portfolio/root/img/japan-montains.jpg">
+    <meta property="og:url" content="http://hugob.promo-vesoul33.codeur.online/Portfolio">
+    <!-- Twitter -->
+    <meta name="twitter:title" content="Portfolio de Hugo Bacquet">
+    <meta name="twitter:description" content="Bienvenue sur mon Portfolio, ou vous pourrez retrouver tous mes projets fini ou en cours de developpement">
+    <meta name="twitter:image" content="http://hugob.promo-vesoul33.codeur.online/Portfolio/root/img/japan-montains.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="http://hugob.promo-vesoul33.codeur.online/Portfolio">
+
+
+
+<meta name= »twitter:site » content= »@NomDeLaSociete »>
+<meta name= »twitter:title » content= Votre titre de 65 caractères »>
+<meta name= »twitter:description » content= »Votre description de 200 caractères. »>
+<meta name= »twitter:creator » content= »@Auteur »>
+<meta name= »twitter:image:src » content= »URL image »>
+    <!-- Fin Méta Données -->
+
+
+
     <!-- Bootstrap CSS-->
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
     <!-- Font Awesome CSS-->
@@ -244,19 +277,20 @@
             <h2 class="heading">Contact</h2>
             <div class="row">
               <div class="col-lg-12">
-                <form id="contact-form" method="post" action="#" class="contact-form">
+                <form id="contact-form" method="post" action="mail.php" class="contact-form">
+                <input type="hidden" name="envoi" value="1">
                   <div class="controls">
                     <div class="row">
                       <div class="col-md-6">
                         <div class="form-group">
                           <label>Votre prénom*</label>
-                          <input type="text" name="name" required="required" class="form-control" onblur="verifFirstName(this)">
+                          <input type="text" name="prenom" required="required" class="form-control" onblur="verifFirstName(this)">
                         </div>
                       </div>
                       <div class="col-md-6">
                         <div class="form-group">
                           <label>Votre nom *</label>
-                          <input type="text" name="surname" required="required" class="form-control"  onblur="verifLastname(this)">
+                          <input type="text" name="nom" required="required" class="form-control"  onblur="verifLastname(this)">
                         </div>
                       </div>
                     </div>
