@@ -139,7 +139,7 @@
                 <div class="box">
                   <div class="icon"><img src="img/javascript.png"  alt="logo-js"></div>
                   <h5>JAVASCRIPT</h5>
-                  <p>JavaScript est un langage de programmation de scripts principalement employé dans les pages web interactives mais aussi pour les serveurs avec l'utilisation (par exemple) de Node.js.</p>
+                  <p>JavaScript est un langage de programmation de scripts principalement employé dans les pages web interactives mais au²ssi pour les serveurs avec l'utilisation (par exemple) de Node.js.</p>
                 </div>
               </div>
             </div>
@@ -218,7 +218,7 @@
               <div class="col-lg-5 h-100 jm-sticky-top ml-auto">
                 <h3>Projet Restaurant</h3>
                 <p class="mb-4">Voici le projet d'un site vitrine pour le compte du restaurant la gondola.<br>
-                  Projet réaliser en collaboration avec : Désirée BESNARD, Sylvain SANTOS, Glenn PEREIRA GOMES, Hugo BACQUET.</p>
+                  Projet réalisé en collaboration avec : Désirée BESNARD, Sylvain SANTOS, Glenn PEREIRA GOMES, Hugo BACQUET.</p>
                 <p class="mb-5"><strong class="text-black"> Technologies utilisées :</strong> HTML, CSS, JS, GITHUB.</p>
                 <!-- <blockquote class="blockquote">
                   <p>Nice Looking Website Of Ours. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam excepturi quod dolore commodi.</p>
@@ -237,7 +237,7 @@
               <div class="col-lg-5 h-100 jm-sticky-top mr-auto order-2 order-lg-1">
                 <h3>Projet Blueasy</h3>
                 <p class="mb-4">Voici le projet d'un site vitrine pour exemple d'un portfolio fictif.<br>
-                  Projet réaliser par: Hugo BACQUET.
+                  Projet réalisé par: Hugo BACQUET.
                 </p>
                 <p class="mb-5"><strong class="text-black"> Technologies utilisées :</strong> HTML, CSS, BOOTSTRAP</p>
                 <!-- <blockquote class="blockquote">
@@ -261,7 +261,7 @@
               <div class="col-lg-5 h-100 jm-sticky-top ml-auto">
                 <h3>Projet Lovehouse</h3>
                 <p class="mb-4">  Voici le projet d'un site vitrine pour le compte de la boutique fictive LoveHouse.<br>
-                  Projet réaliser en collaboration avec : Fiona PEREIRA GOMES, Eric CHAON, Florent BONNEAU, Hugo BACQUET.</p>
+                  Projet réalisé en collaboration avec : Fiona PEREIRA GOMES, Eric CHAON, Florent BONNEAU, Hugo BACQUET.</p>
                 <p class="mb-5"><strong class="text-black"> Technologies utilisées :</strong> HTML, CSS, SASS, JS, GITHUB.</p>
             </div>
           </div>
