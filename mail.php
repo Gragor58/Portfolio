@@ -108,7 +108,7 @@
      
     		if ((($copie == 'oui') && ($num_emails == 2)) || (($copie == 'non') && ($num_emails == 1)))
     		{
-    			header('Location: /Portfolio/index.php#contact/?ok=1');
+    			header('Location: /Portfolio/index.php?ok=1#contact');
 				die;
     		}
     		else

@@ -280,7 +280,7 @@
     <section id="contact" style="background-color: rgb(110, 110, 110);" class="text-page pb-4"> 
     
     <?php
-      $ok = (isset($_POST['ok'])) ? (bool)$_POST['ok']     : false;
+      $ok = (isset($_GET['ok'])) ? (bool)$_GET['ok']     : false;
 
       if ($ok){
       
