@@ -284,8 +284,7 @@
 
       if ($ok){
       
-        echo '<div class="d-flex pt-3 justify-content-center"><h6><strong>Votre message a bien été envoyé</strong></h6></div>';
-        
+        echo '<div class="d-flex pt-3 justify-content-center" style ="color: darkgreen"><h6><strong>Votre message a bien été envoyé</strong></h6></div>';
       }
 
       ?>
