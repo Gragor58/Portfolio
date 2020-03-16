@@ -59,9 +59,14 @@
     <!-- Tweaks for older IEs--><!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+        
   </head>
   <body>
-    <section id="intro" style="background-image: url('img/ein-steig.jpg');" class="intro">       
+    <section id="intro" style="background-image: url('img/ein-steig.jpg');" class="intro">  
+    
+  
+
+
       <div class="overlay"></div>
       <div class="content">
         <div class="container clearfix">
@@ -270,7 +275,21 @@
       </div>
     </section>
 
+
+
     <section id="contact" style="background-color: rgb(110, 110, 110);" class="text-page pb-4"> 
+    
+    <?php
+      $ok = (isset($_POST['ok'])) ? (bool)$_POST['ok']     : false;
+
+      if ($ok){
+      
+        echo '<div class="d-flex pt-3 justify-content-center"><h6><strong>Votre message a bien été envoyé</strong></h6></div>';
+        
+      }
+
+      ?>
+
       <div class="container">
         <div class="row">
           <div class="col-lg-12">

@@ -108,7 +108,8 @@
      
     		if ((($copie == 'oui') && ($num_emails == 2)) || (($copie == 'non') && ($num_emails == 1)))
     		{
-    			echo '<p>'.$message_envoye.'</p>';
+    			header('Location: /Portfolio/index.php#contact/?ok=1');
+				die;
     		}
     		else
     		{
