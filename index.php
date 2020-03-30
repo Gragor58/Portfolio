@@ -119,7 +119,7 @@
     </section>
     <!-- about end-->
     <!-- Compétences-->
-    <section id="services" style="background-color: #eee">
+    <!-- <section id="services" style="background-color: #eee">
       <div class="container">
         <div class="row services">
           <div class="col-lg-12">
@@ -196,6 +196,80 @@
                   <h5>PHOTOSHOP</h5>
                   <p>Photoshop est un logiciel de retouche, de traitement et de dessin assisté par ordinateur, lancé en 1990 sur MacOS puis en 1992 sur Windows. </p>
                 </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section> -->
+    <section id="services" style="background-color: #eee">
+      <div class="container pl-5 ">
+        <div class="row services">
+          <div class="col-lg-12">
+            <h2 class="heading">compétences</h2>
+
+            <div class="row">
+              <div class="col-md-4">
+                <div class="box">
+                  <div class="icon"><img src="img/html-5.png" alt="logo-html"></div>
+                  <h5>HTML 5</h5>
+                  </div>
+              </div>
+              <div class="col-md-4">
+                <div class="box">
+                  <div class="icon"><img src="img/css.png" alt="logo-css"></div>
+                  <h5>CSS 3</h5>
+                  </div>
+              </div>
+              <div class="col-md-4">
+                <div class="box">
+                  <div class="icon"><img src="img/javascript.png"  alt="logo-js"></div>
+                  <h5>JAVASCRIPT</h5>
+                  </div>
+              </div>
+            </div>
+
+            
+            <div class="row">
+              <div class="col-md-4">
+                <div class="box">
+                  <div class="icon"><img src="img/php.png" alt="logo-php"></div>
+                  <h5>PHP</h5>
+                  </div>
+              </div>
+              <div class="col-md-4">
+                <div class="box">
+                  <div class="icon"><img src="img/sql.png" alt="logo-sql"></div>
+                  <h5>MY SQL</h5>
+                  </div>
+              </div>
+              <div class="col-md-4">
+                <div class="box">
+                  <div class="icon"><img src="img/symfony.png" alt="logo-symfony"></div>
+                  <h5>SYMFONY</h5>
+                 </div>
+              </div>
+            </div>
+
+
+            <div class="row">
+              <div class="col-md-4">
+                <div class="box">
+                  <div class="icon"><img src="img/bootstrap.png" alt="logo-bootstrap"></div>
+                  <h5>BOOTSTRAP</h5>
+                  </div>
+              </div>
+              <div class="col-md-4">
+                <div class="box">
+                  <div class="icon"><img src="img/github.png" alt="logo-github"></div>
+                  <h5>GITHUB</h5>
+                  </div>
+              </div>
+              <div class="col-md-4">
+                <div class="box">
+                  <div class="icon"><img src="img/photoshop.png" alt="logo-photoshop"></div>
+                  <h5>PHOTOSHOP</h5>
+                  </div>
               </div>
             </div>
           </div>
