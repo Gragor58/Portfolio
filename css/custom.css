@@ -6,6 +6,9 @@
     font-size: 1.5rem;
 }
 
+/*COMPÉTENCES*/
+
+
 /*PORTFOLIO*/
 
 .font-size-text-portfolio{
@@ -17,30 +20,46 @@
 }
 
 .rotate-resto{
-   transition: transform .6s;
+   transition: transform .6s; 
+  
 }
 
 .rotate-resto:hover{
-    transform: scale(1.2);
+    transform: scale(1.2); 
+    border-radius: 30px;
 }
 
 .rotate-blue{
   transition: transform .6s;
+ 
 }
 
 
 .rotate-blue:hover{
     transform: scale(1.2);
+    border-radius: 30px;
 }
 
 .rotate-love{
     transition: transform .6s;
+    
 }
 
 .rotate-love:hover{
     transform: scale(1.2);
+    border-radius: 30px;
+   
 }
 
 .white-link:hover{
     background-color: white;
+}
+
+
+/* Média Queries */
+
+@media (max-width: 575.98px) {
+    .responsive{
+        vertical-align: middle !important;
+    }
 }

@@ -3,15 +3,12 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>PorteFolio HB</title>
-    <meta name="description" content="">
+    <title>PortFolio HB</title>
+    <meta name="description" content="Bienvenue sur mon Portfolio, ou vous pourrez retrouver tous mes projets fini ou en cours de developpement.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
 
     <!-- Meta Données -->
-
-    <meta name="description"
-        content="Bienvenue sur mon Portfolio, ou vous pourrez retrouver tous mes projets fini ou en cours de developpement.">
     <meta name="author" content="Hugo BACQUET, Fiona PEREIRA GOMES">
     <meta name="category" content="Portfolio">
     <meta name="Keywords"
@@ -31,11 +28,11 @@
 
 
 
-<meta name= »twitter:site » content= »@NomDeLaSociete »>
-<meta name= »twitter:title » content= Votre titre de 65 caractères »>
-<meta name= »twitter:description » content= »Votre description de 200 caractères. »>
-<meta name= »twitter:creator » content= »@Auteur »>
-<meta name= »twitter:image:src » content= »URL image »>
+<meta name= "twitter:site " content= "@NomDeLaSociete" >
+<meta name= "twitter:title"  content= "Votre titre de 65 caractères" >
+<meta name= "twitter:description"  content= "Votre description de 200 caractères." >
+<meta name= "twitter:creator"  content= "@Auteur ">
+<meta name= "twitter:image:src"  content= "URL image" >
     <!-- Fin Méta Données -->
 
 
@@ -69,7 +66,7 @@
 
       <div class="overlay"></div>
       <div class="content">
-        <div class="container clearfix">
+        <div class="container clearfix responsive">
           <div class="row">
             <div class="col-lg-8 col-md-12 mx-auto">
               <p class="italic">Salut à toi, Ô intrépide internaute !</p>
@@ -106,8 +103,8 @@
             <h2 class="heading">a propos de moi</h2>
             <p class="lead">Je me présente, je m'appelle Hugo et j'ai 22 ans. </p>
             <p class="font-size-present">Je suis détenteur d'un Baccalauréat Professionel en maintenance des équipements industriels.</p>  
-            <p class="font-size-present">  Passionné d'informatique, j'ai décidé de commencer une formation dans le developpement web en septembre 2019 à l'Access Code School. </p>
-            <p class="font-size-present"> Je suis également passioné de cinéma, de musique, et n'en déplaise à certains de jeux vidéo.</p> 
+            <p class="font-size-present">  Passionné d'informatique, j'ai décidé de commencer une formation dans le développement web en septembre 2019 à l'Access Code School. </p>
+            <p class="font-size-present"> Je suis également passionné de cinéma, de musique, et n'en déplaise à certains de jeux vidéo.</p> 
             <p class="font-size-present">  Mon projet serait d'ouvrir ma propre entreprise une fois que j'aurais accumulé assez d'expérience.</p>
            </div> 
           <div class="col-lg-6 mx-auto">
@@ -203,15 +200,15 @@
       </div>
     </section> -->
     <section id="services" style="background-color: #eee">
-      <div class="container pl-5 ">
+      <div class="container">
         <div class="row services">
           <div class="col-lg-12">
             <h2 class="heading">compétences</h2>
 
-            <div class="row">
+            <div class="row pl-5 ml-5">
               <div class="col-md-4">
                 <div class="box">
-                  <div class="icon"><img src="img/html-5.png" alt="logo-html"></div>
+                  <div class="icon "><img src="img/html-5.png" alt="logo-html"></div>
                   <h5>HTML 5</h5>
                   </div>
               </div>
@@ -230,7 +227,7 @@
             </div>
 
             
-            <div class="row">
+            <div class="row pl-5 ml-5">
               <div class="col-md-4">
                 <div class="box">
                   <div class="icon"><img src="img/php.png" alt="logo-php"></div>
@@ -240,7 +237,7 @@
               <div class="col-md-4">
                 <div class="box">
                   <div class="icon"><img src="img/sql.png" alt="logo-sql"></div>
-                  <h5>MY SQL</h5>
+                  <h5>MYSQL</h5>
                   </div>
               </div>
               <div class="col-md-4">
@@ -252,7 +249,7 @@
             </div>
 
 
-            <div class="row">
+            <div class="row pl-5 ml-5">
               <div class="col-md-4">
                 <div class="box">
                   <div class="icon"><img src="img/bootstrap.png" alt="logo-bootstrap"></div>
@@ -292,13 +289,13 @@
             
             <div class="row mb-5 pb-5">
               <div class="col-lg-6 mb-4 mb-lg-0">
-                <a href="https://hugob.promo-vesoul33.codeur.online/restaurant" class="readmore"><img src="img/Projet-Restaurant.jpg" alt="Image" class="img-fluid rotate-resto"></a>
+                <a target="self" href="https://hugob.promo-vesoul33.codeur.online/lovehouse" class="readmore"><img src="img/Projet-Lovehouse.jpg" alt="Image" class="img-fluid rotate-resto"></a>
               </div>
               <div class="col-lg-5 h-100 jm-sticky-top ml-auto">
-                <h3>Projet Restaurant</h3>
-                <p class="mb-4">Voici le projet d'un site vitrine pour le compte du restaurant la gondola.<br>
-                  Projet réalisé en collaboration avec : Désirée BESNARD, Sylvain SANTOS, Glenn PEREIRA GOMES, Hugo BACQUET.</p>
-                <p class="mb-5"><strong class="text-black"> Technologies utilisées :</strong> HTML, CSS, JS, GITHUB.</p>
+                <h3>Projet Lovehouse</h3>
+                <p class="mb-4">Voici le projet d'un site vitrine pour le compte de la boutique fictive LoveHouse.<br>
+                  Projet réalisé en collaboration avec : Fiona PEREIRA GOMES, Eric CHAON, Florent BONNEAU, Hugo BACQUET.</p>
+                <p class="mb-5"><strong class="text-black"> Technologies utilisées :</strong> HTML, CSS, SASS, JS, GITHUB.</p>
                 <!-- <blockquote class="blockquote">
                   <p>Nice Looking Website Of Ours. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam excepturi quod dolore commodi.</p>
                   <p class="mb-0 d-flex align-items-center">
@@ -311,14 +308,14 @@
     
             <div class="row mb-5 pb-5">
               <div class="col-lg-6 order-1 order-lg-2 mb-4 mb-lg-0">
-                <a href="https://hugob.promo-vesoul33.codeur.online/Blueasy" class="readmore"><img src="img/Projet-Blueasy.jpg" alt="Image" class="img-fluid rotate-blue"></a>
+                <a target="self" href="https://sylvains.promo-vesoul33.codeur.online/softrh/" class="readmore"><img src="img/Projet-Soft-Rh.png" alt="Image" class="img-fluid rotate-blue"></a>
               </div>
               <div class="col-lg-5 h-100 jm-sticky-top mr-auto order-2 order-lg-1">
-                <h3>Projet Blueasy</h3>
-                <p class="mb-4">Voici le projet d'un site vitrine pour exemple d'un portfolio fictif.<br>
-                  Projet réalisé par: Hugo BACQUET.
+                <h3>Projet soft-rh</h3>
+                <p class="mb-4">Voici le projet d'une application pour une administration destinée à recueillir les humeurs des employés.<br>
+                  Projet réalisé par: Aurélie NOURDINE, Sylvain SANTOS, Rodrigue CEGELLY, Hugo BACQUET.
                 </p>
-                <p class="mb-5"><strong class="text-black"> Technologies utilisées :</strong> HTML, CSS, BOOTSTRAP</p>
+                <p class="mb-5"><strong class="text-black"> Technologies utilisées :</strong> HTML, CSS, PHP, ILLUSTRATOR, BOOTSTRAP, PHPMYADMIN</p>
                 <!-- <blockquote class="blockquote">
                   <p>Nice Looking Website Of Ours. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam excepturi quod
                     dolore commodi.</p>
@@ -335,13 +332,13 @@
     
             <div class="row mb-5 pb-5">
               <div class="col-lg-6 mb-4 mb-lg-0">
-                <a href="https://hugob.promo-vesoul33.codeur.online/lovehouse" class="readmore"><img src="img/Projet-Lovehouse.jpg" alt="Image" class="img-fluid rotate-love"></a>
+                <a target="self" href="https://sachah.promo-vesoul33.codeur.online/cinegit" class="readmore"><img src="img/Projet-Cinéma.png" alt="Image" class="img-fluid rotate-love"></a>
               </div>
               <div class="col-lg-5 h-100 jm-sticky-top ml-auto">
-                <h3>Projet Lovehouse</h3>
-                <p class="mb-4">  Voici le projet d'un site vitrine pour le compte de la boutique fictive LoveHouse.<br>
-                  Projet réalisé en collaboration avec : Fiona PEREIRA GOMES, Eric CHAON, Florent BONNEAU, Hugo BACQUET.</p>
-                <p class="mb-5"><strong class="text-black"> Technologies utilisées :</strong> HTML, CSS, SASS, JS, GITHUB.</p>
+                <h3>Projet Cinéma</h3>
+                <p class="mb-4">  Voici le projet d'un annuaire de films.<br>
+                  Projet réalisé en collaboration avec : Désirée BESNARD, Sacha HENRY, Rodrigue CEGELLY, Hugo BACQUET.</p>
+                <p class="mb-5"><strong class="text-black"> Technologies utilisées :</strong> HTML, CSS, PHP, JS, GITHUB, PHPMYADMIN.</p>
             </div>
           </div>
         </div>
